@@ -104,9 +104,6 @@ Each folder represents **one learning milestone**.
 - Use it for your own JavaScript learning
 
 ---
-///
-///
-
 
 ### ✨ Happy Coding & Learning JavaScript!
 
