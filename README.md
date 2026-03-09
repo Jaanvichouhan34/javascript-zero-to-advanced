@@ -27,9 +27,6 @@ This repository focuses purely on the **JavaScript language**, without framework
 
 ---
 
-
----
-
 ## 📅 Day-Wise Learning Breakdown
 
 ### 🟢 Beginner Level
@@ -106,5 +103,3 @@ Each folder represents **one learning milestone**.
 ---
 
 ### ✨ Happy Coding & Learning JavaScript!
-
-...
